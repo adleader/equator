@@ -1,6 +1,7 @@
 # 属性比对器
 
 *一个用于比较两个对象的属性是否相等，并且可以获取所有不相等的属性的比对器*
+https://blog.csdn.net/dadiyang/article/details/88782898
 
 # 原理
 
